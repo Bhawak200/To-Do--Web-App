@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
+body{
+     margin:0;
+     padding: 0;
+     background-color:rgba(128, 83, 1, 0.767);
+     font-family: 'Lora', serif;
+ }
+
+.title-position{
+    margin:5% auto;
+}
